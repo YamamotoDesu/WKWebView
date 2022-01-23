@@ -1,3 +1,3 @@
 # WKWebView
 
-<img src="https://github.com/YamamotoDesu/ios-professional-course-by-jrasmusson/blob/main/Bankey/Gif/loginImage.gif" width="300">
+<img src="https://github.com/YamamotoDesu/WKWebView/blob/main/webkit-localhost.jpg" width="auto">
